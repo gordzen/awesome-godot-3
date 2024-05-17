@@ -8,7 +8,7 @@ DISCLAIMER: This is a copy of the [original repo](https://github.com/godotengine
 
 Have a Godot 3 plugin/asset/template not listed here? Contact me on Twitter! (gordzen123) 
 
-
+-----------------------------------------------------------------------------------------------------------------------------
 
 A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for Godot.
 
