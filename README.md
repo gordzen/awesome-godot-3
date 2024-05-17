@@ -1,13 +1,13 @@
-# awesome-godot-3
 
 # Awesome Godot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Godot Engine logo](godot-logo.svg)](https://godotengine.org)
+
 
 
 DISCLAIMER: This is a copy of the [original repo](https://github.com/godotengine/awesome-godot), just without any Godot 4 stuff
 
 Have a Godot 3 plugin/asset/template not listed here? Contact me on Twitter! (gordzen123) 
+
 
 
 A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for Godot.
