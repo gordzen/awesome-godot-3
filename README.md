@@ -33,9 +33,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ### 2D
 
-#### Godot 4.2
-
-- [Poder Solar](https://github.com/antimundo/poder-solar) - Simple resource management game.
 
 #### Godot 3.2+
 
@@ -62,31 +59,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Breakable](https://github.com/didier-v/breakable) - A breakout-like game.
 - [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
 
-#### Godot 2.1
-
-- [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
-- [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
-- [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
-- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam.
-- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
-- [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
-- [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone.
-- [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
-- [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015).
-- [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
-- [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
-- [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
-- [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game.
-- [Ringed](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects.
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
-- [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016.
 
 ### 3D
 
-#### Godot 4.2
-
-- [LibreAim](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
-- [Reia](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
 
 #### Godot 3.2+
 
@@ -105,18 +80,11 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018.
 
-#### Godot 2.1
-
-- [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
 
 ## Projects
 
 *Non-game Open source projects made with Godot (tools/utilities).*
 
-#### Godot 4.0
-
-- [Clipboard Narrator](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
-- [GodSVG](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
 
 #### Godot 3.5+
 
@@ -134,11 +102,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Templates
 
-*Projects to use as a base for your own games.*
-
-#### Godot 4.2+
-
-- [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 
 #### Godot 3.5+
 
@@ -180,13 +143,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Open Source A-RPG Demo](https://github.com/GDQuest/godot-make-pro-2d-games) - RPG demo.
 
-#### Godot 2.1
-
-- [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
-- [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
-- [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
-- [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
-- [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
 
 ## Tutorials
 
@@ -202,29 +158,23 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [2D Day/Night Cycle](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
 - [2D Destructible Objects](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
-- [3D Auto Collision Generator](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click (Godot 4.x).
 - [AgonesSDK](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
 - [Anima](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
 - [Aseprite Wizard](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
 - [AutoColliders](https://github.com/graycastle/godot-AutoColliders) - Allows the automatic generation of colliders for Sprites, with planned expansion to handle 3D meshes in the future (Godot 3.x).
 - [BoxCam2D](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
 - [CRT Shader](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
-- [Cyclops Level Builder](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts (Godot 4.x).
-- [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime (Godot 3.x, 4.x).
+- [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager/tree/v1.x) - A simple but powerful text based branching dialogue editor and runtime (Godot 3.x).
 - [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.2+).
-- [Fast Fourier Transform (FFT)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript (Godot 4.x).
 - [GdUnit3](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
-- [GdUnit4](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.*).
 - [Godot Radial Menu](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 - [Godot Recipes](https://kidscancode.org/godot_recipes/3.x/) - A large collection of tutorials and techniques, both big and small.
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
 - [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
-- [Godot Spin Button](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue) (Godot 2.x, 3.x).
-- [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators (Godot >= 2.1).
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript (Godot 3.x).
 - [HTerrain](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x, 4.x).
 - [Importality](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others (Godot 4.x).
@@ -237,13 +187,12 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Scene Manager](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code (Godot 3.x, 4.0.alpha).
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
 - [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
-- [Simplified Flight Simulation library](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
-- [SignalVisualizer](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
-- [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool (Godot 3.x, 4.x).
+- [Simplified Flight Simulation library](https://github.com/fbcosentino/godot-simplified-flightsim/tree/3.x) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x).
+- [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D/tree/Godot3-latest) - A 2D terrain tool (Godot 3.x).
 - [StoryTeller Engine](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 - [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.x).
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.x).
-- [Virtual Joystick](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options (Godot 3.x, 4.x).
+- [Godot Vitual Joystick](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot/tree/v3) -A simple virtual joystick for touchscreens, with useful options (Godot 3.x)
 
 #### Godot 4.2+
 
